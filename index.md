@@ -5,11 +5,24 @@ Hello, welcome to our infoViz Project
   <iframe width="100%" height="323" frameborder="0"
   src="https://observablehq.com/embed/@info247-spring21/vega-lite-assignment-solution?cells=ex3"></iframe>
   
+  
+  <h2>Tableau</h2>
+  
+  
+  
+  <h2>Vega-Lite</h2>
+  
+  
+  
+  
+  
+  <h2>Vega-Lite</h2>
+  
+  
+  
+  
 </html>
 
-
-
-You can use the [editor on GitHub](https://github.com/Bowen1206/InfovizProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
