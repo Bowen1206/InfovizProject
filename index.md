@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+Hello, welcome to our infoViz Project
+
+<html>
+  <h2>Vega-Lite</h2>
+  <iframe width="100%" height="340" frameborder="0"
+  src="https://observablehq.com/embed/@bowen1206/vega-lite-assignment?cells=ex3"></iframe>
+  
+</html>
+
+
 
 You can use the [editor on GitHub](https://github.com/Bowen1206/InfovizProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
