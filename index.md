@@ -12,7 +12,7 @@ Hello, welcome to our infoViz Project
   
   
   <h2>Image</h2>
-  
+  <img src="IMAGE.jpg">
   
   
   
