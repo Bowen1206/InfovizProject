@@ -12,7 +12,7 @@ Hello, welcome to our infoViz Project
   
   
   <h2>Image</h2>
-  <img src="Narrative Infographic.png">
+  <img src="https://user-images.githubusercontent.com/12079120/115137017-08c9b300-a056-11eb-916b-7fc08c62d916.png">
   
   
   
